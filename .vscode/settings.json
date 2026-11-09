@@ -1,0 +1,15 @@
+
+{
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "left",
+  "workbench.panel.defaultLocation": "bottom",
+  "workbench.activityBar.location": "default",
+  "workbench.statusBar.visible": true,
+  "editor.minimap.enabled": false,
+  "editor.lineNumbers": "on",
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "python.analysis.typeCheckingMode": "basic",
+  "files.autoSave": "afterDelay"
+}
